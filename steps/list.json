@@ -1,0 +1,268 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "evolution-of-the-web.html",
+        "id": "evolution-of-the-web",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "evolution-sub-1.html",
+        "id": "evolution-sub-1",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "evolution-sub-2.html",
+        "id": "evolution-sub-2",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "evolution-sub-3.html",
+        "id": "evolution-sub-3",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 3000,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "evolution-sub-4.html",
+        "id": "evolution-sub-4",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 3000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "the-change-1.html",
+        "id": "the-change-1",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 3000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "the-change-2.html",
+        "id": "the-change-2",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 3000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-change-3.html",
+        "id": "the-change-3",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 3000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-change-js.html",
+        "id": "the-change-js",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 6000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "optimization.html",
+        "id": "optimization",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": 6000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "tools-1.html",
+        "id": "tools-1",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": -3000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "tools-2.html",
+        "id": "tools-2",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": -6000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "tools-3.html",
+        "id": "tools-3",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": -9000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "tool-4.html",
+        "id": "tool-4",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": -12000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "tool-5.html",
+        "id": "tool-5",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": -15000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "tool-6.html",
+        "id": "tool-6",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": -18000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "tool-7.html",
+        "id": "tool-7",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": -21000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "tool-8.html",
+        "id": "tool-8",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": -24000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]
