@@ -12,11 +12,12 @@ var appendSlides = function (data) {
     var steps = data;
     var htmltemplate = $('#step-template').html();
     var htmltempl = Handlebars.compile(htmltemplate);
+    var base = document.location.origin+''+document.location.pathname;
     steps.forEach(function (step, index) {
         var templ = htmltempl;
-        console.log(step);
+        console.log(step.uri);
         $.ajax({
-            url: '/steps/' + step.uri,
+            url: base+'/steps/' + step.uri,
             success: function (data) {
                 $('.steps').append(templ({file: data, data: step.data,
                                           class: step.class, id: step.id}));
